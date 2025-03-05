@@ -1,6 +1,6 @@
 {
   "version": "1",
-  "name": "mukesh",
+  "name": "Api testing",
   "type": "collection",
   "ignore": [
     "node_modules",
